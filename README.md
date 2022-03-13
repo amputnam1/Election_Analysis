@@ -29,3 +29,8 @@ The analysis of the lection shows that:
 # Challenge Summary
 The election data provided these results - 
 <img width="546" alt="election_results_terminal" src="https://user-images.githubusercontent.com/93094173/158083415-d799cd06-3050-4d7a-adda-193ca05c0a79.png">
+
+# Election-Audit Summary:
+The program that was used can be replacated and scaled for future election results in varying democratic geographies including other counties, cities, states, and so forth within the United States or other demogratic countries (e.g. Canadian cities and provinces) while using a csv file. Some of the same variables and data types can be used in other elections or customized as needed depending on the requirement of the specific elections, cities, or counties. For instance, candidate names, counties, or number of voting ballots. 
+
+If there are adjustments or customizations made to utilize this file for future elections there are some considerations that should be made including creating new variables specific to the election requirements, new print statements for differing values, and so forth.
